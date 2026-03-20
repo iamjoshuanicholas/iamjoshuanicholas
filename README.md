@@ -13,8 +13,10 @@
 Name     : Joshua Nicholas
 Age      : 17
 Location : Lagos, Nigeria
-Focus    : Ethical Hacking | OSINT | Web App Security
-Status   : Learning every day 🔥
+Role     : Cybersecurity Researcher & Ethical Hacker
+Focus    : Web App Security | OSINT | Bug Bounty
+Stack    : Python | JavaScript | Bash | HTML
+Status   : Breaking things legally 🔥
 ```
 
 - 🕵️ I find vulnerabilities in real systems through OSINT and application security research
