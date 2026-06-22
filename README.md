@@ -19,6 +19,7 @@ status   : authorized
 Visibility is an illusion.
 
 Targeting complex corporate perimeters, cloud infrastructure exposure, and deep asset reconnaissance. I expose critical architectural gaps before threat actors leverage them.
+
 ---
 
 ## Arsenal
@@ -66,7 +67,7 @@ Unauthenticated access to the entire Firestore database of a crypto platform wit
 - Networking & Web Fundamentals — TryHackMe
 - Web Application Hacking — PortSwigger Academy
 - Bug Bounty Methodology
-- eJPT Certification — target: Aug 2026
+- eJPT Certification
 
 ---
 
