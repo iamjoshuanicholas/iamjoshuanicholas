@@ -24,7 +24,7 @@ Targeting complex corporate perimeters, cloud infrastructure exposure, and deep 
 
 ## Arsenal
 
-![BlackArch Linux](https://img.shields.io/badge/BlackArch_Linux-557C94?style=for-the-badge&logo=blackarchlinux&logoColor=white)
+![BlackArch Linux](https://img.shields.io/badge/BlackArch_Linux-100000?style=for-the-badge&logo=blackarchlinux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=nmap&logoColor=white)
@@ -84,4 +84,3 @@ Unauthenticated access to the entire Firestore database of a crypto platform wit
 
 ---
 
-`// you were never supposed to find this`
