@@ -23,7 +23,7 @@ Targeting complex corporate perimeters, cloud infrastructure exposure, and deep 
 
 ## Arsenal
 
-![Black-Arch Linux](https://img.shields.io/badge/Black-Arch_Linux-557C94?style=for-the-badge&logo=blackarchlinux&logoColor=white)
+![BlackArch Linux](https://img.shields.io/badge/Black-Arch_Linux-557C94?style=for-the-badge&logo=blackarchlinux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4B0082?style=for-the-badge&logo=nmap&logoColor=white)
