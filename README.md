@@ -1,4 +1,4 @@
-# Joshua Nicholas
+# Nicholas Joshua
 
 > Security Researcher · Lagos, Nigeria
 
@@ -9,7 +9,7 @@
 ```bash
 ┌──(root㉿iamjoshuanicholas)-[~]
 └─# whoami
-handle   : iamjoshuanicholas
+handle   : psykoxen 
 location : Lagos, Nigeria
 focus    : DarkINT · Attack Surface Management · Cyber Threat Intelligence
 stack    : Python · Bash · JavaScript · HTML
