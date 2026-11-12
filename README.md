@@ -4,16 +4,8 @@
 
 ---
 
-## whoami
-
 ```bash
-┌──(root㉿iamjoshuanicholas)-[~]
-└─# whoami
-handle   : psykoxen 
-location : Lagos, Nigeria
 focus    : DarkINT · Attack Surface Management · Cyber Threat Intelligence
-stack    : Python · Bash · JavaScript · HTML
-status   : authorized
 ```
 
 Visibility is an illusion.
@@ -64,10 +56,9 @@ Unauthenticated access to the entire Firestore database of a crypto platform wit
 
 ## Current Focus
 
-- Networking & Web Fundamentals — TryHackMe
-- Web Application Hacking — PortSwigger Academy
-- Bug Bounty Methodology
-- eJPT Certification
+- Networking & Web
+- Fundamentals
+- Certifications
 
 ---
 
