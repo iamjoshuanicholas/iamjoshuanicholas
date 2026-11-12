@@ -23,6 +23,7 @@ Targeting complex corporate perimeters, cloud infrastructure exposure, and deep 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFFF00?style=for-the-badge&logo=Python&logoColor=blue)
 
 **Disciplines**
 
